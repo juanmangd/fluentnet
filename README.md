@@ -1,6 +1,6 @@
 <a href="https://www.fluentassertions.com"><img src="docs/assets/images/FA_Partner_Logo.png" style="width:500px"/></a>
 
-# Extension methods to fluently assert the outcome of .NET tests
+# Extension methods to fluently
 [![](https://img.shields.io/github/actions/workflow/status/fluentassertions/fluentassertions/build.yml?branch=develop)](https://github.com/fluentassertions/fluentassertions/actions?query=branch%3Adevelop)
 [![Coveralls branch](https://img.shields.io/coverallsCoverage/github/fluentassertions/fluentassertions?branch=main)](https://coveralls.io/github/fluentassertions/fluentassertions?branch=main)
 [![qodana](https://github.com/fluentassertions/fluentassertions/actions/workflows/code_quality.yml/badge.svg)](https://github.com/fluentassertions/fluentassertions/actions/workflows/code_quality.yml)
